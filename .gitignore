@@ -1,0 +1,5 @@
+echo "logs/" >> .gitignore
+echo "node_modules/" >> .gitignore
+echo "prometheus_data/" >> .gitignore
+echo "grafana_data/" >> .gitignore
+
